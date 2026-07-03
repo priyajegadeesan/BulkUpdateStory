@@ -10,6 +10,4 @@ features:
   logging: true
   monitoring: true
 
-features: 
-  monitoring: false
   
