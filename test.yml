@@ -11,5 +11,5 @@ features:
   monitoring: true
 
 features: 
-  monitoring: false
+  monitoring: true
   
